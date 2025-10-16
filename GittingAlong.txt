@@ -1,0 +1,15 @@
+ 1107  sed -i '' 's/Hello Crool World!/Hello Very Crool World!/' HelloWorld.c\n
+ 1108  git add HelloWorld.c
+ 1109  git commit -m "change to very crool in main"
+ 1110  git push
+ 1111  git push
+ 1112  git merge --no-ff Happy -m "merged"
+ 1113  sed -i '' 's/Hello [A-Za-z ][A-Za-z ]*!/Hello Very Happy World!/' HelloWorld.c\n
+ 1114  git add HelloWorld.c\n
+ 1115  git commit -m 'now very happy world"\n'
+ 1116  git push
+ 1117  sed -i '' 's/Hello Very Happy World!/Hello Crazy World!/' HelloWorld.c\n
+ 1118  git add HelloWorld.c\n
+ 1119  git commit -m 'changed to very crazy'
+ 1120  git push
+ 1121  git log --all --graph --oneline --decorate > GitLog.txt\n

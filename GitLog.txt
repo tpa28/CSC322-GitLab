@@ -1,0 +1,8 @@
+* 36259d0 (HEAD -> main, origin/main) changed to very crazy
+*   5e3a3fc now very happy world"
+|\  
+| * 77e86ea (origin/Happy, Happy) happy world in branch Happy
+* | 2f5a28a change to very crool in main
+|/  
+* f94de9f changed to crool world
+* 6c9e882 initial
