@@ -6,9 +6,9 @@
 int main(void) {
 
 <<<<<<< HEAD
-    printf("Hello Very Happy World!\n");
+    printf("Hello Crazy World!\n");
 =======
-    printf("Hello Very Happy World!\n");
+    printf("Hello Crazy World!\n");
 >>>>>>> Happy
 
     return(EXIT_SUCCESS);
